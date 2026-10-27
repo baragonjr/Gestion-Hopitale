@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1781310119 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\main.c
+	"Gestion_Hopital.h"
+
+1781309976 c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\gestion_hopital.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1781310293 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\analyse_medicale.c
+	"Gestion_Hopital.h"
+
+1781310269 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\fichiers.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\gestion_patients.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\menus.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\recherche.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\rendez_vous.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\statistiques.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\tri.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\gestion_hopital\utilitaires.c
+	"Gestion_Hopital.h"
+
+1781310293 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\analyse_medicale.c
+	"Gestion_Hopital.h"
+
+1781309976 c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\gestion_hopital.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1781310269 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\fichiers.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\gestion_patients.c
+	"Gestion_Hopital.h"
+
+1781581800 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\main.c
+	"Gestion_Hopital.h"
+
+1781906816 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\menus.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\recherche.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\rendez_vous.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\statistiques.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\tri.c
+	"Gestion_Hopital.h"
+
+1781310271 source:c:\users\ykouy\onedrive - esmt\bureau\projet l c\gestion_hopital\utilitaires.c
+	"Gestion_Hopital.h"
+

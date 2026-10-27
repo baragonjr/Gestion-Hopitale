@@ -1,0 +1,40 @@
+========================================
+ EXPORT DOSSIERS MEDICAUX - 3 patient(s)
+========================================
+
+--- Dossier N° 1 ---
+Nom         : Doumbia Cheickna
+Naissance   : 10/09/1999 (Age : 26 ans)
+Sexe        : M
+Telephone   : +221774435752
+Groupe sg.  : B+
+Service     : Cardiologie
+IMC         : 22.50 (Poids normal)
+Temperature : 38.0 degC
+Tension     : 233/32 mmHg
+Diagnostic  : Palu
+
+--- Dossier N° 2 ---
+Nom         : DIARRA ISSA
+Naissance   : 01/00/0000 (Age : 2026 ans)
+Sexe        : F
+Telephone   : 786534209
+Groupe sg.  : O-
+Service     : 2
+IMC         : 20.68 (Poids normal)
+Temperature : 37.0 degC
+Tension     : 12/8 mmHg
+Diagnostic  : PALUE GRAVE
+
+--- Dossier N° 3 ---
+Nom         : Abdoulaye Tour�
+Naissance   : 05/-3/-2001 (Age : 4027 ans)
+Sexe        : M
+Telephone   : 74560931
+Groupe sg.  : A+
+Service     : Hepatho-Gastro-Enterologique
+IMC         : 29.06 (Surpoids)
+Temperature : 40.0 degC
+Tension     : 13/9 mmHg
+Diagnostic  : Ulser-Gastro-Dueodenal
+
